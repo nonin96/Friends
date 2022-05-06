@@ -1,2 +1,2 @@
-# Friends
-My first practice
+# nonin96.github.io
+ 

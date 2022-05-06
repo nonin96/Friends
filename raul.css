@@ -1,0 +1,12 @@
+li.black{
+    color: black;
+}
+li.purple{
+    color: purple;
+}
+h1{
+     border-style: double;
+     border-color:  rgb(145, 30, 145);
+     border-radius: 5px;
+     border-width: 5px;
+}
